@@ -1,0 +1,229 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Well-being; core indicators, background characteristics";"Well-being: core indicators, background";"82634ENG";"(Un)happiness and (dis)satisfaction with aspects of life
+Gender, age, migration background and other characteristics";"2020-03-20T02:00:00";"New";"";"en";"CBS";"Yearly";"2013-2019";"
+In general, persons of 15 years or older took part in this study, the well-being figures only apply to the Dutch population of 18 years or older. Therefore, this table consists of well-being figures of the Dutch population of 18 years or older in terms of happiness, life satisfaction, satisfaction with education opportunities, work, travel time, daily activities, physical health, mental health, weight, the financial situation, the house, the neighborhood, social life and the amount of free time. In addition, concerns about the financial future, feelings of unsafety and trust in others are included. Satisfaction with work and the travel time to and from work are measured only for people who have a paid job for 12 hours per week or more. For people who do not work or work less than 12 hours per week satisfaction with daily activities is reported. These subjects are reported for gender, age, education level and migration background.
+
+Data available from: 2013
+
+Status of the figures:
+The figures in this table are definite.
+
+Changes as of March 20th, 2020:
+Not applicable, this is a new table.
+
+When will new figures be published?
+New figures on 2020 will be published around the middle of 2021.
+";"Index
+
+1. General information
+2. Definitions and explanation of symbols
+3. Links to relevant tables and articles
+4. Sources and methods
+5. Further information
+
+1. GENERAL INFORMATION
+
+In general, persons of 15 years or older took part in this study, the well-being figures only apply to the Dutch population of 18 years or older. Therefore, this table consists of well-being figures of the Dutch population of 18 years or older in terms of happiness, life satisfaction, satisfaction with education opportunities, work, travel time, daily activities, physical health, mental health, weight, the financial situation, the house, the neighborhood, social life and the amount of free time. In addition, concerns about the financial future, feelings of unsafety and trust in others are included. Satisfaction with work and the travel time to and from work are measured only for people who have a paid job for 12 hours per week or more. For people who do not work or work less than 12 hours per week satisfaction with daily activities is reported. These subjects are reported for gender, age, education level and migration background.
+
+Data available from: 2013
+
+Status of the figures:
+The figures in this table are definite.
+
+Changes as of March 20th, 2020:
+Not applicable, this is a new table.
+
+When will new figures be published?
+New figures on 2020 will be published around the middle of 2021.
+
+2. DEFINITIONS AND EXPLANATION OF SYMBOLS
+
+Explanation of symbols:
+
+Empty cell	: figure not applicable
+. 		: figure is unknown, insufficiently reliable or confidential
+*		: provisional figure 
+**		: revised provisional figure
+
+3. LINKS TO RELEVANT TABLES AND ARTICLES
+
+Relevant tables: 
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82612NED'>Well-being in relation to health and life style; health characteristics (Dutch only)</a>
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82635NED'>Well-being in relation to education and work; work characteristics (Dutch only)</a>
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82636NED'>Well-being in relation to finance; finance characteristics (Dutch only)</a>
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82638NED'>Well-being in relation to living; living characteristics (Dutch only)</a>
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82637NED'>Well-being in relation to social life; social life characteristics (Dutch only)</a>
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81881NED'>(Un)safety perception; background characteristics (Safety monitor)(Dutch only)</a> 
+
+Relevant articles: 
+
+<a href='https://www.cbs.nl/nl-nl/nieuws/2018/01/tevredener-met-het-leven-bij-sterkere-binding-met-buurt'>More satisfied with life with stronger neighborhood cohesion (Dutch only)</a>.
+
+<a href='https://www.cbs.nl/nl-nl/nieuws/2017/24/nederlanders-tevredener-over-eigen-financien'>Dutch more satisfied with own finances (Dutch only)</a>.
+
+<a href='https://www.cbs.nl/nl-nl/nieuws/2011/51/bevolkingstrends-4e-kwartaal-2011'>Beuningen, J. van en R. Kloosterman, 2011, Subjective well-being: which factors play a role? (Dutch only) Bevolkingstrends 59(4), blz. 85-92. CBS, Den Haag/Heerlen</a>.
+
+<a href='https://www.cbs.nl/nl-nl/achtergrond/2013/17/gezondheid-belangrijker-voor-geluk-dan-leefstijl'>Beuningen, J. van en L. Moonen, 2013, Health more important for happiness than life style (Dutch only). Bevolkingstrends, april 2013, blz. 1-12. CBS, Den Haag/Heerlen</a>.
+
+More information can be found in the theme <a href='https://www.cbs.nl/nl-nl/maatschappij/gezondheid-en-welzijn'>Health and well-being (Dutch only)</a>.
+
+4. SOURCES AND METHODS
+
+The survey method for this table can be found in the survey description <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/sociale-samenhang-en-welzijn'>Sociale cohesion and well-being (Dutch only)</a>.
+
+5. FURTHER INFORMATION
+
+<a href='https://www.cbs.nl/en-gb/about-us/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Statistics Netherlands, The Hague/Heerlen
+Reproduction is permitted, provided Statistics Netherlands is quoted as the source. 
+";"ts=1584528511332&graphtype=Table&r=Topics&k=Periods&t=PersonCharacteristics,Margins";"$filter=((PersonCharacteristics eq 'T009002')) and ((Margins eq 'B000167'))&$select=PersonCharacteristics, Margins, Periods, Unhappy_2, NeitherHappyNorUnhappy_3, Happy_4, Dissatisfied_6, NeitherSatisfiedNorDissatisfied_7, Satisfied_8";"Table,Bar,Line";"Regular";"CBS.";"2020-03-20T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"PersonCharacteristics";"Person characteristics";"";;;;;
+"1";"1";;"Dimension";"TypeOfValue";"Type of value ";"";;;;;
+"2";"2";;"TimeDimension";"Periods";"Periods";"";"true";;;;
+"3";;;"TopicGroup";"";"General";;;;;;
+"4";;"3";"TopicGroup";"";"Happiness";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you consider yourself to be a happy person. A score of 1 refers to very unhappy and a 10 to very happy?’.";;;;;
+"5";"3";"4";"Topic";"ScoreHappiness_1";"Score happiness";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you consider yourself to be a happy person. A score of 1 refers to very unhappy and a 10 to very happy?’.";;"Double";"scale score";"1";"Missing"
+"6";"4";"4";"Topic";"Unhappy_2";"Unhappy";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you consider yourself to be a happy person. A score of 1 refers to very unhappy and a 10 to very happy?’. A score from 1 to 4 is classified as unhappy.";;"Double";"%";"1";"Missing"
+"7";"5";"4";"Topic";"NeitherHappyNorUnhappy_3";"Neither happy, nor unhappy";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you consider yourself to be a happy person. A score of 1 refers to very unhappy and a 10 to very happy?’. A score of 5 or 6 is classified as neither happy, nor unhappy.";;"Double";"%";"1";"Missing"
+"8";"6";"4";"Topic";"Happy_4";"Happy";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you consider yourself to be a happy person. A score of 1 refers to very unhappy and a 10 to very happy?’. A score from 7 to 10 is classified as happy.";;"Double";"%";"1";"Missing"
+"9";;"3";"TopicGroup";"";"Life satisfaction";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the life you currently lead. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;;;;
+"10";"7";"9";"Topic";"ScoreLifeSatisfaction_5";"Score life satisfaction";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the life you currently lead. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"11";"8";"9";"Topic";"Dissatisfied_6";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the life you currently lead. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"12";"9";"9";"Topic";"NeitherSatisfiedNorDissatisfied_7";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the life you currently lead. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"13";"10";"9";"Topic";"Satisfied_8";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the life you currently lead. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"14";;;"TopicGroup";"";"Education and work";;;;;;
+"15";;"14";"TopicGroup";"";"Satisfaction educ. opportunities";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the education opportunities you have had so far. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;;;;
+"16";"11";"15";"Topic";"ScoreSatisfactionEducOpportunities_9";"Score satisfaction educ. opportunities";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the education opportunities you have had so far. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.
+";;"Double";"scale score";"1";"Missing"
+"17";"12";"15";"Topic";"Dissatisfied_10";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the education opportunities you have had so far. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"18";"13";"15";"Topic";"NeitherSatisfiedNorDissatisfied_11";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the education opportunities you have had so far. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"19";"14";"15";"Topic";"Satisfied_12";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the education opportunities you have had so far. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"20";;"14";"TopicGroup";"";"Work satisfaction";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. This question is only asked if people have a paid job for a minimum of 12 hours per week.";;;;;
+"21";"15";"20";"Topic";"ScoreWorkSatisfaction_13";"Score work satisfaction";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"22";"16";"20";"Topic";"Dissatisfied_14";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"23";"17";"20";"Topic";"NeitherSatisfiedNorDissatisfied_15";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"24";"18";"20";"Topic";"Satisfied_16";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"25";;"14";"TopicGroup";"";"Satisfaction travel time ";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the travel time to and from your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. This question is only asked if people have a paid job for a minimum of 12 hours per week.";;;;;
+"26";"19";"25";"Topic";"ScoreSatisfactionTravelTime_17";"Score satisfaction travel time";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the travel time to and from your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"27";"20";"25";"Topic";"Dissatisfied_18";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the travel time to and from your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"28";"21";"25";"Topic";"NeitherSatisfiedNorDissatisfied_19";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the travel time to and from your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"29";"22";"25";"Topic";"Satisfied_20";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the travel time to and from your work. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"30";;"14";"TopicGroup";"";"Satisfaction daily activities";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your daily activities. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. This question is only asked if people do not have a paid job or work less than 12 hours per week.";;;;;
+"31";"23";"30";"Topic";"ScoreSatisfactionDailyActivities_21";"Score satisfaction daily activities";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your daily activities. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"32";"24";"30";"Topic";"Dissatisfied_22";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your daily activities. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"33";"25";"30";"Topic";"NeitherSatisfiedNorDissatisfied_23";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your daily activities. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"34";"26";"30";"Topic";"Satisfied_24";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your daily activities. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"35";;;"TopicGroup";"";"Health";;;;;;
+"36";;"35";"TopicGroup";"";"Satisfaction physical health";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your physical health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. ";;;;;
+"37";"27";"36";"Topic";"ScoreSatisfactionPhysicalHealth_25";"Score satisfaction physical health";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your physical health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"38";"28";"36";"Topic";"Dissatisfied_26";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your physical health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"39";"29";"36";"Topic";"NeitherSatisfiedNorDissatisfied_27";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your physical health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"40";"30";"36";"Topic";"Satisfied_28";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your physical health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"41";;"35";"TopicGroup";"";"Satisfaction mental health";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your mental health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. ";;;;;
+"42";"31";"41";"Topic";"ScoreSatisfactionMentalHealth_29";"Score satisfaction mental health";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your mental health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"43";"32";"41";"Topic";"Dissatisfied_30";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your mental health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"44";"33";"41";"Topic";"NeitherSatisfiedNorDissatisfied_31";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your mental health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"45";"34";"41";"Topic";"Satisfied_32";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your mental health. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"46";;"35";"TopicGroup";"";"Satisfaction with weight";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your weight. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. ";;;;;
+"47";"35";"46";"Topic";"ScoreSatisfactionWeight_33";"Score satisfaction weight";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your weight. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"48";"36";"46";"Topic";"Dissatisfied_34";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your weight. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"49";"37";"46";"Topic";"NeitherSatisfiedNorDissatisfied_35";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your weight. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"50";"38";"46";"Topic";"Satisfied_36";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your weight. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"51";;;"TopicGroup";"";"Finances";;;;;;
+"52";;"51";"TopicGroup";"";"Satisfaction financial situation";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the financial situation of your household. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. ";;;;;
+"53";"39";"52";"Topic";"ScoreSatisfactionFinancialSituation_37";"Score satisfaction financial situation";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the financial situation of your household. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"54";"40";"52";"Topic";"Dissatisfied_38";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the financial situation of your household. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"55";"41";"52";"Topic";"NeitherSatisfiedNorDissatisfied_39";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the financial situation of your household. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"56";"42";"52";"Topic";"Satisfied_40";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the financial situation of your household. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"57";;"51";"TopicGroup";"";"Concern financial future ";"The answer to the question ‘On a scale from 1 to 10 can you indicate how often you worry about your financial future. A score of 1 refers to never and a 10 to continuously?’. ";;;;;
+"58";"43";"57";"Topic";"ScoreConcernFinancialFuture_41";"Score concern financial future";"The average score to the question ‘On a scale from 1 to 10 can you indicate how often you worry about your financial future. A score of 1 refers to never and a 10 to continuously?’. ";;"Double";"scale score";"1";"Missing"
+"59";"44";"57";"Topic";"NoConcerns_42";"No concerns ";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate how often you worry about your financial future. A score of 1 refers to never and a 10 to continuously?’. A score from 1 to 4 is classified as having no concerns about the financial future.";;"Double";"%";"1";"Missing"
+"60";"45";"57";"Topic";"FewConcerns_43";"Few concerns";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate how often you worry about your financial future. A score of 1 refers to never and a 10 to continuously?’. A score of 5 or 6 is classified as having few concerns about the financial future.";;"Double";"%";"1";"Missing"
+"61";"46";"57";"Topic";"ManyConcerns_44";"Many concerns";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate how often you worry about your financial future. A score of 1 refers to never and a 10 to continuously?’. A score from 7 to 10 is classified as having many concerns about the financial future.";;"Double";"%";"1";"Missing"
+"62";;;"TopicGroup";"";"Living";;;;;;
+"63";;"62";"TopicGroup";"";"Satisfaction with house";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your house. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;;;;
+"64";"47";"63";"Topic";"ScoreSatisfactionWithHouse_45";"Score satisfaction with house";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your house. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"65";"48";"63";"Topic";"Dissatisfied_46";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your house. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"66";"49";"63";"Topic";"NeitherSatisfiedNorDissatisfied_47";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your house. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"67";"50";"63";"Topic";"Satisfied_48";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your house. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"68";;"62";"TopicGroup";"";"Satisfaction neighborhood";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the neighborhood in which you live. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;;;;
+"69";"51";"68";"Topic";"ScoreSatisfactionNeighborhood_49";"Score satisfaction neighborhood ";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the neighborhood in which you live. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"70";"52";"68";"Topic";"Dissatisfied_50";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the neighborhood in which you live. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"71";"53";"68";"Topic";"NeitherSatisfiedNorDissatisfied_51";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the neighborhood in which you live. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"72";"54";"68";"Topic";"Satisfied_52";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the neighborhood in which you live. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"73";;"62";"TopicGroup";"";"Feelings of unsafety";"The answer to the question ‘On a scale from 1 to 10 can you indicate how often you worry about your safety. A score of 1 refers to never and a 10 to continuously?’. ";;;;;
+"74";"55";"73";"Topic";"ScoreFeelingsOfUnsafety_53";"Score feelings of unsafety";"The average score to the question ‘On a scale from 1 to 10 can you indicate how often you worry about your safety. A score of 1 refers to never and a 10 to continuously?’.";;"Double";"scale score";"1";"Missing"
+"75";"56";"73";"Topic";"Safe_54";"Safe";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate how often you worry about your safety. A score of 1 refers to never and a 10 to continuously?’. A score from 1 to 4 is classified as safe.";;"Double";"%";"1";"Missing"
+"76";"57";"73";"Topic";"NeitherSafeNorUnsafe_55";"Neither safe, nor unsafe";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate how often you worry about your safety. A score of 1 refers to never and a 10 to continuously?’. A score of 5 or 6 is classified as neither safe, nor unsafe.";;"Double";"%";"1";"Missing"
+"77";"58";"73";"Topic";"Unsafe_56";"Unsafe";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate how often you worry about your safety. A score of 1 refers to never and a 10 to continuously?’. A score from 7 to 10 is classified as unsafe.
+";;"Double";"%";"1";"Missing"
+"78";;;"TopicGroup";"";"Social life";;;;;;
+"79";;"78";"TopicGroup";"";"Satisfaction social life";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your social life. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;;;;
+"80";"59";"79";"Topic";"ScoreSatisfactionSocialLife_57";"Score satisfaction social life";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your social life. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"81";"60";"79";"Topic";"Dissatisfied_58";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your social life. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"82";"61";"79";"Topic";"NeitherSatisfiedNorDissatisfied_59";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your social life. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.
+";;"Double";"%";"1";"Missing"
+"83";"62";"79";"Topic";"Satisfied_60";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with your social life. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"84";;"78";"TopicGroup";"";"Satisfaction amount of free time";"The answer to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the amount of free time you have. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;;;;
+"85";"63";"84";"Topic";"ScoreSatisfactionAmountOfFreeTime_61";"Score satisfaction amount of free time";"The average score to the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the amount of free time you have. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’.";;"Double";"scale score";"1";"Missing"
+"86";"64";"84";"Topic";"Dissatisfied_62";"Dissatisfied";"Percentage of the people who score a 1 to 4 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the amount of free time you have. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 1 to 4 is classified as dissatisfied.";;"Double";"%";"1";"Missing"
+"87";"65";"84";"Topic";"NeitherSatisfiedNorDissatisfied_63";"Neither satisfied, nor dissatisfied";"Percentage of the people who score a 5 or a 6 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the amount of free time you have. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score of 5 or 6 is classified as neither satisfied, nor dissatisfied.";;"Double";"%";"1";"Missing"
+"88";"66";"84";"Topic";"Satisfied_64";"Satisfied";"Percentage of the people who score a 7 to 10 on the question ‘On a scale from 1 to 10 can you indicate to what extent you are satisfied with the amount of free time you have. A score of 1 refers to completely dissatisfied and a 10 to completely satisfied?’. A score from 7 to 10 is classified as satisfied.";;"Double";"%";"1";"Missing"
+"89";;"78";"TopicGroup";"";"Trust in others";"The answer to the question ‘Do you think in general most people can be trusted or one cannot be careful enough when dealing with people?’";;;;;
+"90";"67";"89";"Topic";"PercentageWithTrust_65";"Percentage with trust";"Percentage of the people who indicate that most people can be trusted.";;"Double";"%";"1";"Missing"
+"PersonCharacteristics"
+Key;Title;Description
+"1012600";"Background: Dutch";"Person with a Dutch background
+
+Person whose parents were both born in the Netherlands."
+"2012655";"Background: western";"Person with a western migration background
+
+Person originating from a country in Europe (excluding Turkey), North America or Oceania, or Indonesia or Japan. 
+Due to their socioeconomic and cultural position people from Indonesia and Japan residing in the Netherlands are considered as having a western migration background. They are mainly people born in the former Dutch East Indies and expatriates employed by Japanese companies with their families."
+"2012657";"Background: non-western";"Person with a non-western migration background
+
+Person originating from a country in Africa, South America or Asia (excl. Indonesia and Japan) or Turkey. 
+Due to their socioeconomic and cultural position people from Indonesia and Japan residing in the Netherlands are considered as having a western migration background. They are mainly people born in the former Dutch East Indies and expatriates employed by Japanese companies with their families."
+"2018710";"Level of educ: (pre-) Primary educ.";"The educational level is (pre-)primary education. 
+This includes group (class) 1-8 in primary education, including primary special needs education (children aged 4-12)."
+"2018720";"Level of educ: Lower secondary educ..";"The educational level is lower secondary education.
+ This includes junior general secondary education (first three grades of HAVO and VWO), the pre-vocational track (vmbo) and vocational training to the entry level, the former assistant level (mbo1)."
+"2018750";"Level of educ: Upper secondary";"The educational level is upper secondary education. 
+This includes the senior general secondary education (havo, vwo), the basic vocational track (mbo2), the vocational professional track (mbo3) and the vocational middle-management and specialist track (mbo4)."
+"2018800";"Level of educ: Bachelor degrees";"The educational level is the bachelor degree. 
+This includes bachelor and associate degrees,"
+"2018810";"Level of educ: Master degrees";"The educational level is a master degree or a doctorate. 
+This includes professional and academic master degrees and programmes leading to the award of an advanced research qualification, e.g. Ph.D."
+"T009002";"Total persons";""
+"3000   ";"Sex: male";""
+"4000   ";"Sex: female";""
+"53105  ";"Age: 18 to 24 years";""
+"53500  ";"Age: 25 to 34 years";""
+"53700  ";"Age: 35 to 44 years";""
+"53800  ";"Age: 45 to 54 years";""
+"53900  ";"Age: 55 to 64 years";""
+"53925  ";"Age: 65 to 74 years";""
+"21600  ";"Age: 75 years or older";""
+"TypeOfValue"
+Key;Title;Description
+"B000167";"Average/percentage";""
+"B000150";"Standard error";"The figures are based on samples and will therefore not be strictly equal to the true value as it occurs in a population. The standard error gives an idea of the accuracy of the estimate made. When multiplied by 1.96, the standard error gives the 95% confidence interval. The confidence interval indicates between which values the true value will probably fall. The standard error depends on the sample size, among other things. The smaller the standard error, the more accurate the estimate is."
+"Periods"
+Key;Title;Description;Status
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018JJ00";"2018";"";"Definitief"
+"2019JJ00";"2019";;"Definitief"
